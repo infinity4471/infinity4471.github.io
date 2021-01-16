@@ -8,18 +8,18 @@ paginate_path: "page:num"
 
 
 # Setup
-title:               Algoholics | Peer to Peer Collaboration and Learning
+title:               Panagiotis Kostopanagiotis | Peer to Peer Collaboration and Learning
 tagline:             ''
 description:         'This is the description'
-url:                 http://algoholics.github.io
+url:                 http://infinity4471.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Marios Papachristou
-  url:               https://github.com/papachristoumarios
-  email:             papachristoumarios@gmail.com
+  name:              Panagiotis Kostopanagiotis
+  url:               https://github.com/infinity4471
+  email:             panagiotis.kostopanagiotis@gmail.com
 
 # Custom vars
 version:             1.0.0
