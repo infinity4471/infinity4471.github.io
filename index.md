@@ -28,3 +28,5 @@ You can find a more detailed description of my work on:
 
 You can find my detailed CV also containing contact information
 [here](https://github.com/infinity4471/infinity4471.github.io/raw/main/CV.pdf).
+
+Contact me at: <panagiotis.kostopanagiotis@gmail.com>
