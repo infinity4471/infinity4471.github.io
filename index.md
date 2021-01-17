@@ -7,14 +7,14 @@ title:
 ![profile](profile.png)
 Hey there!
 
-I'm Panagiotis an undergraduate student of Electrical and Computer
+I'm Panagiotis, an undergraduate student of Electrical and Computer
 Engineering at the National Technical University of Athens. At the moment I am
-completing my Master's Thesis under the supervision of [Dr. Dimitrios Fotakis](https://www.softlab.ntua.gr/~fotakis/) on
+completing my Master's Thesis under the supervision of [Dr. Dimitrios Fotakis](www.softlab.ntua.gr/~fotakis/) on
 the Dynamic Min Sum Set Cover Problem.
 
 My scientific interests lie in the field of Theoretical Computer Science and Discrete
 Mathematics. In particular I am interested in the theory of Algorithms, Data
-Structures, Graph Theory, Probability Theory and Combinatorics.
+Structures, Graph Theory, Data Science, Probability Theory and Combinatorics.
 
 I am a former [Bloomberg LP](https://www.bloomberg.com/company/) intern where I worked on the
 Financial Derivatives Pricing team developing a tool for pricing option
