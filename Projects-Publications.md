@@ -41,3 +41,22 @@ well as some of the projects I am most proud of.
    Co-authors: [Natalia Salpea](https://github.com/nattienat09)
 
 2. QuaSiMode, [Github](https://github.com/infinity4471/QuaSiMode)
+
+    Through my summer internship in Bloomberg LP I developed an interest for
+    Quantum Computing both from a theoretical as well as from a practical point
+    of view. This project was heavily influenced from thsi experience.
+
+    QuaSiMode(Quantum Simulator) is a framework where you can develop and run
+    [Quantum Circuits](https://en.wikipedia.org/wiki/Quantum_circuit). It's a
+    primal quantum computer simulator built from scratch. The circuits are 
+    modeled as [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+    and there is a method for actually viewing the graphical representation of
+    the circuits.
+
+    QuaSiMode allows you to measure your circuits and extract results. You can
+    also find some sample circuits implemented like [Quantum Coin
+    Flip](https://github.com/infinity4471/QuaSiMode/blob/master/entanglement.py)
+    or [Quantum
+    Teleporation](https://en.wikipedia.org/wiki/Quantum_teleportation)
+
+    Technologies used: Python 3.8, Numpy, Networkx, Matplotlib
