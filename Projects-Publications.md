@@ -37,5 +37,6 @@ well as some of the projects I am most proud of.
    statistics of the simulation.
 
    Technologies used: Python 3.8, Numpy, Matplotlib
+   Co-authors: [Natalia Salpea](https://github.com/nattienat09)
 
 2. QuaSiMode, [Github](https://github.com/infinity4471/QuaSiMode)
