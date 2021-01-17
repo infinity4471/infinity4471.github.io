@@ -16,9 +16,10 @@ well as some of the projects I am most proud of.
 
 ### Projects
 
-1. Quantum Computing for Option Valuation Description, Bloomberg LP
+1. Quantum Computing for Option Valuation Description, [Bloomberg
+   LP](https://www.bloomberg.com/company/)
 
-    During the summer of 2020 I did a 3 month internship at Bloomberg LP
+    During the summer of 2020 I did a 3 month Software Engineering Internship at Bloomberg LP
     working for the London office on the department of Financial Analytics. My
     project consisted of implementing ideas from the paper [Option Pricing
     using Quantum Computers](https://arxiv.org/abs/1905.02666) to develop a
