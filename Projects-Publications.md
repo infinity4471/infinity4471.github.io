@@ -16,7 +16,38 @@ well as some of the projects I am most proud of.
 
 ### Projects
 
-1. Epidemic Simulator,
+1. Quantum Computing for Option Valuation Description, Bloomberg LP
+
+    During the summer of 2020 I did a 3 month internship at Bloomberg LP
+    working for the London office on the department of Financial Analytics. My
+    project consisted of implementing ideas from the paper [Option Pricing
+    using Quantum Computers](https://arxiv.org/abs/1905.02666) to develop a
+    product for pricing a variety of [option
+    contracts](https://www.investopedia.com/terms/o/option.asp) and integrate
+    it to the Bloomberg terminal.
+
+    We developed an API from scratch that received pricing requests for
+    European, Asian and Barrier options in the appropriate format. After
+    parsing the requests our service constructed the appropriate circuit that
+    would perform the pricing of the option using Quantum Amplitude Estimation.
+    Then our API would contact the Quantum Computers accessible
+    through [IBM Quantum Experience](https://quantum-computing.ibm.com/) and
+    return the price of the requested option contract.
+
+    Our project achieved matching results to traditional pricing methods such
+    as
+    [Black-Scholes](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+    and therefore is a major stepping stone for the use of the novel Quantum
+    Computing techniques in the Financial Technology spectrum.
+
+    Technologies used: Python, Javascript, C++, XML, Node.JS, React.JS, Numpy,
+    Qiskit, Matplotlib
+
+    Points of reference: [Callum
+    Piper](https://www.linkedin.com/in/callum-piper-3691373/?originalSubdomain=uk),
+    [Mark Smith](https://www.linkedin.com/in/mark-smith-038a6b162/)
+
+2. Epidemic Simulator,
    [Github](https://github.com/infinity4471/Epidemic-Simulator)
 
    This was a project developed during the early stages of lockdown in Greece.
@@ -40,7 +71,7 @@ well as some of the projects I am most proud of.
 
    Co-authors: [Natalia Salpea](https://github.com/nattienat09)
 
-2. QuaSiMode, [Github](https://github.com/infinity4471/QuaSiMode)
+3. QuaSiMode, [Github](https://github.com/infinity4471/QuaSiMode)
 
     Through my summer internship in Bloomberg LP I developed an interest for
     Quantum Computing both from a theoretical as well as from a practical point
