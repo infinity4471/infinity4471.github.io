@@ -22,5 +22,5 @@ contracts using Quantum Computing.
 
 You can find a more detailed description of my work on:
 
-* [GitHub] (https://github.com/infinity4471)
-* [Google Scholar] (https://scholar.google.com/citations?view_op=list_works&hl=el&authuser=1&user=mEFJGiMAAAAJ&gmla=AJsN-F7AG6GMnjNWHKMqmrMLTHoSdGik3cYIxSWlAARcf6wA49yMaZ8MlFmgtfgh82yVeL-rgo9BhVNVS6JNtQx7N1ktrM-j_YiEtQ2dT6TDLU6r3zYyMz26hvocSHDy2lEtj_FlfsTkqLOfRn57T2RDj-hzp8PEnKlLkwapYCYNFN2vHlvCdBO0jf0C_SYXrjiPWrbT4_iI)
+* [GitHub](https://github.com/infinity4471)
+* [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=el&authuser=1&user=mEFJGiMAAAAJ&gmla=AJsN-F7AG6GMnjNWHKMqmrMLTHoSdGik3cYIxSWlAARcf6wA49yMaZ8MlFmgtfgh82yVeL-rgo9BhVNVS6JNtQx7N1ktrM-j_YiEtQ2dT6TDLU6r3zYyMz26hvocSHDy2lEtj_FlfsTkqLOfRn57T2RDj-hzp8PEnKlLkwapYCYNFN2vHlvCdBO0jf0C_SYXrjiPWrbT4_iI)
