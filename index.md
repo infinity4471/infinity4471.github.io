@@ -3,6 +3,8 @@ layout: page
 title:
 ---
 
+{:.profile}
+![profile](profile.png)
 Hey there!
 
 I'm Panagiotis, I am an undergraduate student of Electrical and Computer
