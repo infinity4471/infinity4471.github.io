@@ -22,7 +22,7 @@ At the moment we have over 1.2K members on our [Algoholics Facebook
 Page](https://www.facebook.com/groups/2093168194256744) from universities all
 over the country.
 
-[Algoholics Meetup in the pre-COVID19 Era](algoholics.jpg)
+![Algoholics Meetup in the pre-COVID19 Era](algoholics.jpg)
 
 We are aiming at making Algoholics the best version of what it already is. A lively and
 supporting community where everyone can creatively express themselves through
