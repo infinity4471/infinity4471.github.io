@@ -28,8 +28,8 @@ We are aiming at making Algoholics the best version of what it already is. A liv
 supporting community where everyone can creatively express themselves through
 science.
 
-You can access our Open Source Projects through our [Github
-Page](https://github.com/algoholics-ntua). Join our [Facebook
+You can access our Open Source Projects and the lecture notes from our meetups 
+through our [Github Page](https://github.com/algoholics-ntua). Join our [Facebook
 Community](https://www.facebook.com/groups/2093168194256744/) to get
 to know us and of course subscribe on our [Youtube
 Channel](https://www.youtube.com/channel/UCVhaU_PzGJpeVWQrAT8_LeQ).
