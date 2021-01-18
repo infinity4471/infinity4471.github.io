@@ -10,8 +10,8 @@ Algoholics is a peer to peer colaborative group for
 spreading Computer Science knowledge and literature across the country.
 
 It all started with the idea of providing an open platform where anyone could
-present whatever they learn. Doing this they could get a better grasp of the
-topic they are learning about and educate other fellow students all at once.
+present anything they learn. Doing this they could get a better grasp of the
+topic they are learning about and educate their fellow students all at once.
 
 Since the inception of Algoholics we have conducted over 50
 get-togethers/presentations with topics ranging from Algorithms, Machine
@@ -29,5 +29,7 @@ supporting community where everyone can creatively express themselves through
 science.
 
 You can access our Open Source Projects through our [Github
-Page](https://github.com/algoholics-ntua). And of course access all of our
-social media down below.
+Page](https://github.com/algoholics-ntua). Join our [Facebook
+Community](https://www.facebook.com/groups/2093168194256744/) to get
+to know us and of course subscribe on our [Youtube
+Channel](https://www.youtube.com/channel/UCVhaU_PzGJpeVWQrAT8_LeQ).
