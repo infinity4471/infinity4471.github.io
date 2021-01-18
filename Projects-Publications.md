@@ -30,7 +30,7 @@ well as some of the projects I am most proud of.
     We developed an API from scratch that received pricing requests for
     European, Asian and Barrier options in the appropriate format. After
     parsing the requests our service constructed the appropriate circuit that
-    would perform the pricing of the option using Quantum Amplitude Estimation.
+    would perform the pricing of the option using [Quantum Amplitude Estimation](https://arxiv.org/abs/quant-ph/0005055).
     Then our API would contact the Quantum Computers accessible
     through [IBM Quantum Experience](https://quantum-computing.ibm.com/) and
     return the price of the requested option contract.
