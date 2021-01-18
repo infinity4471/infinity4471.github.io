@@ -9,7 +9,7 @@ Hey there!
 
 I'm Panagiotis, an undergraduate student of Electrical and Computer
 Engineering at the National Technical University of Athens. At the moment I am
-completing my Master's Thesis under the supervision of [Dr. Dimitrios Fotakis](www.softlab.ntua.gr/~fotakis/) on
+completing my Master's Thesis under the supervision of [Dr. Dimitrios Fotakis](http://www.softlab.ntua.gr/~fotakis/) on
 the Dynamic Min Sum Set Cover Problem.
 
 My scientific interests lie in the field of Theoretical Computer Science and Discrete
