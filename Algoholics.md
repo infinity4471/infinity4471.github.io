@@ -6,6 +6,7 @@ permalink: /Algoholics/
 
 On the 25th of May 2018 [Miltiadis Stouras](https://github.com/mstou) and I
 founded [Algoholics](https://github.com/algoholics-ntua). 
+
 Algoholics is a peer to peer colaborative group for
 spreading Computer Science knowledge and literature across the country.
 
