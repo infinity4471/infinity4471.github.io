@@ -12,7 +12,7 @@ Engineering at the National Technical University of Athens. At the moment I am
 completing my Master's Thesis under the supervision of [Dr. Dimitrios Fotakis](http://www.softlab.ntua.gr/~fotakis/) on
 the Dynamic Min Sum Set Cover Problem.
 
-My scientific interests mostly lie in the field of Theoretical Computer Science and Discrete
+My scientific interests lie in the field of Theoretical Computer Science and Discrete
 Mathematics. In particular I am interested in the theory of Algorithms, Data
 Structures, Data Science, Financial Mathematics, Graph Theory and Combinatorics.
 
