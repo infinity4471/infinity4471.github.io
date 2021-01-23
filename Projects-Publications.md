@@ -12,7 +12,9 @@ well as some of the projects I am most proud of.
 1. Dimitris Fotakis, Loukas Kavouras, Panagiotis Kostopanagiotis, Philip Lazos,
    Stratis Skoulakis, Nikolas Zarifis. ["Reallocating Multiple Facilities on the
    Line"](https://arxiv.org/abs/1905.12379). [International Joint Conference on
-   Artificial Intelligence 2019](https://ijcai19.org/)
+   Artificial Intelligence 2019](https://ijcai19.org/), [Theoretical Computer
+   Science Journal, Elsevier, 10.1016/j.tcs.2021.01.028
+   ](https://www.sciencedirect.com/science/article/abs/pii/S0304397521000517)
 
 ### Projects
 
