@@ -1,3 +1,22 @@
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 ---
 layout: page
 header-includes: |
@@ -55,12 +74,12 @@ that will lead you to suceed with certainty 100% of the time.
 
 ## Equivalent Systems
 
-Given two systems of linear inequalities: $Ax \leq b, Cx \leq d, x \in
-\mathbb{R}^n$, where all the
+Given two systems of linear inequalities: $$Ax \leq b, Cx \leq d, x \in
+\mathbb{R}^n$$, where all the
 entries of matrices $A, C$ and vectors $b,d$ are rational numbers, construct a
 polynomial time algorithm to check if the two systems exhibit the same set of
 solutions.
 
 Specifically your algorithm should check whether: 
 
-$\{ x \in \mathbb{R}^n \text{ s.t } Ax \leq b \} = \{x \in \mathbb{R}^n \text{ s.t } Cx \leq d \}$. 
+$$\{ x \in \mathbb{R}^n \text{ s.t } Ax \leq b \} = \{x \in \mathbb{R}^n \text{ s.t } Cx \leq d \}$$. 
