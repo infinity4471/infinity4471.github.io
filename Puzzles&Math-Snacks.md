@@ -46,4 +46,14 @@ people will be wholesome to each other forever. If you fail every baby born
 will be subject to toxic propaganda. Please save the world and find a strategy
 that will lead you to suceed with certainty 100% of the time.
 
+## Equivalent Systems
 
+Given two systems of linear inequalities: $Ax \leq b, Cx \leq d, x \in
+\mathbb{R}^n$, where all the
+entries of matrices $A, C$ and vectors $b,d$ are rational numbers, construct a
+polynomial time algorithm to check if the two systems exhibit the same set of
+solutions.
+
+Specifically your algorithm should check whether: 
+
+$\{ x \in \mathbb{R}^n \text{ s.t } Ax \leq b \} = \{x \in \mathbb{R}^n \text{ s.t } Cx \leq d \}$. 
