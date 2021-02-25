@@ -7,10 +7,12 @@ title:
 ![profile](profile.png)
 Hey there!
 
-I'm Panagiotis, an undergraduate student of Electrical and Computer
-Engineering at the National Technical University of Athens. At the moment I am
-completing my Master's Thesis under the supervision of [Dr. Dimitrios Fotakis](http://www.softlab.ntua.gr/~fotakis/) on
-the Dynamic Min Sum Set Cover Problem.
+I'm Panagiotis, I am currently an Intern Student Researcher at [Max Planck institute for informatics](https://www.mpi-inf.mpg.de/home) working 
+at the Algorithms and Complexity group under the supervision of [Dr. Themis Gouleakis](http://www.mit.edu/~tgoule/). 
+
+In the past I completed my undergraduate studies of Electrical and Computer
+Engineering at the National Technical University of Athens where I did my Master Thesis under the supervision of 
+[Dr. Dimitrios Fotakis](http://www.softlab.ntua.gr/~fotakis/) on the Dynamic Min Sum Set Cover Problem.
 
 My scientific interests lie in the field of Theoretical Computer Science and Discrete
 Mathematics. In particular I am interested in the theory of Algorithms, Data
