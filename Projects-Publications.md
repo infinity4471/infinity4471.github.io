@@ -4,7 +4,7 @@ title: Projects-Publications
 permalink: /Projects-Publications/
 ---
 
-Thanks for sticking around. Below you can find a list of my publications as
+Thanks for sticking around. Below you can find a list of my scientific publications as
 well as some of the projects I am most proud of.
 
 ### Publications
@@ -23,14 +23,14 @@ well as some of the projects I am most proud of.
 
     During the summer of 2020 I did a 3 month Software Engineering Internship at Bloomberg LP
     working for the London office on the department of Financial Analytics. My
-    project consisted of implementing ideas from the paper [Option Pricing
+    project consisted of implementing the ideas from the paper [Option Pricing
     using Quantum Computers](https://arxiv.org/abs/1905.02666) to develop a
-    product for pricing a variety of [option
-    contracts](https://www.investopedia.com/terms/o/option.asp) and integrate
+    product for pricing a variety of [Option
+    Contracts](https://www.investopedia.com/terms/o/option.asp) and integrate
     it to the Bloomberg terminal.
 
-    We developed an API from scratch that received pricing requests for
-    European, Asian and Barrier options in the appropriate format. After
+    We developed an API that received pricing requests for
+    European, Asian and Barrier options. After
     parsing the requests our service constructed the appropriate circuit that
     would perform the pricing of the option using [Quantum Amplitude Estimation](https://arxiv.org/abs/quant-ph/0005055).
     Then our API would contact the Quantum Computers accessible
@@ -83,11 +83,11 @@ well as some of the projects I am most proud of.
     and there is a method for actually viewing the graphical representation of
     the circuits.
 
-    QuaSiMode allows you to measure your circuits and extract results. You can
+    QuaSiMode allows you to measure your circuits' outputs and extract results. You can
     find some sample circuits implemented like [Quantum Coin
     Flip](https://github.com/infinity4471/QuaSiMode/blob/master/entanglement.py)
     or [Quantum
     Teleporation](https://en.wikipedia.org/wiki/Quantum_teleportation). Feel
     free to play around!
 
-    Technologies used: Python 3.8, Numpy, Networkx, Matplotlib
+    Technologies used: Python 3.8, Numpy, NetworkX, Matplotlib
