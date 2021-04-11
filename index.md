@@ -7,9 +7,10 @@ title:
 ![profile](profile.png)
 Hey there!
 
-I'm Panagiotis, I am currently an Intern Student Researcher at [Max Planck institute for informatics](https://www.mpi-inf.mpg.de/home) working 
-at the Algorithms and Complexity group supervised by [Dr. Themis Gouleakis](http://www.mit.edu/~tgoule/). Our research mainly focuses on Machine-Learning 
-Augmented Algorithms for Robust Online Optimization.
+I'm Panagiotis, a Computer Scientist and Engineer from Athens, Greece.
+
+I've recently completed my Research Intern at [Max Planck institute for informatics](https://www.mpi-inf.mpg.de/home) working 
+at the Algorithms and Complexity group supervised by [Dr. Themis Gouleakis](http://www.mit.edu/~tgoule/). Our research mainly focuses on Machine-Learning Augmented Algorithms for Robust Online Optimization.
 
 In the past I completed my undergraduate studies in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) at the 
 [National Technical University of Athens](https://www.ntua.gr/en) where I did my Master Thesis under the supervision of 
