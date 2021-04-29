@@ -43,7 +43,7 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    {% assign pages_list = site._pages.pages | sort:"url" %}
+    {% assign pages_list = site.pages.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
