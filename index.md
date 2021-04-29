@@ -1,8 +1,3 @@
---
-layout: page
-title:
----
-
 {:.profile}
 ![profile](profile.png)
 Hey there!
