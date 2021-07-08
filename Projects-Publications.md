@@ -9,7 +9,9 @@ well as some of the projects I am most proud of.
 
 ### Publications
 
-1. Dimitris Fotakis, Loukas Kavouras, Panagiotis Kostopanagiotis, Philip Lazos,
+1. Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis. ["On The Approximability of Multistage Min-Sum Set Cover"](https://drops.dagstuhl.de/opus/volltexte/2021/14134/). [International Colloquium on Automata, Languages and Programming 2021](http://easyconferences.eu/icalp2021/).
+
+2. Dimitris Fotakis, Loukas Kavouras, Panagiotis Kostopanagiotis, Philip Lazos,
    Stratis Skoulakis, Nikolas Zarifis. ["Reallocating Multiple Facilities on the
    Line"](https://arxiv.org/abs/1905.12379). [International Joint Conference on
    Artificial Intelligence 2019](https://ijcai19.org/), [Theoretical Computer
