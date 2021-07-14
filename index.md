@@ -2,7 +2,7 @@
 ![profile](profile.png)
 Hey there!
 
-I'm Panagiotis, a Computer Scientist and Engineer from Athens, Greece.
+I'm Panagiotis, a Software Engineer at [IMC Trading](https://www.imc.com/eu/) based in Amsterdam, Netherlands.
 
 I've received my Integrated Master's in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) at the 
 [National Technical University of Athens](https://www.ntua.gr/en) where I did my Master's Thesis under the supervision of 

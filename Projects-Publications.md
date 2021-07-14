@@ -9,7 +9,9 @@ well as some of the projects I am most proud of.
 
 ### Publications
 
-1. Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis. ["On The Approximability of Multistage Min-Sum Set Cover"](https://drops.dagstuhl.de/opus/volltexte/2021/14134/). [International Colloquium on Automata, Languages and Programming 2021](http://easyconferences.eu/icalp2021/).
+1. Dimitris Fotakis, Panagiotis Kostopanagiotis, Vasileios Nakos, Georgios Piliouras, Stratis Skoulakis.
+ ["On The Approximability of Multistage Min-Sum Set Cover"](https://drops.dagstuhl.de/opus/volltexte/2021/14134/). 
+ [International Colloquium on Automata, Languages and Programming 2021](http://easyconferences.eu/icalp2021/).
 
 2. Dimitris Fotakis, Loukas Kavouras, Panagiotis Kostopanagiotis, Philip Lazos,
    Stratis Skoulakis, Nikolas Zarifis. ["Reallocating Multiple Facilities on the
@@ -42,7 +44,7 @@ well as some of the projects I am most proud of.
     Our project achieved matching results to traditional pricing methods such
     as
     [Black-Scholes](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
-    and therefore is a major stepping stone for the use of the novel Quantum
+    and therefore is a major stepping stone towards the use of the novel Quantum
     Computing techniques in the Financial Technology spectrum.
 
     Technologies used: Python, Javascript, C++, XML, Node.JS, React.JS, Numpy,
@@ -62,7 +64,7 @@ well as some of the projects I am most proud of.
    executing a [brownian
    motion](https://en.wikipedia.org/wiki/Brownian_motion).
    
-   The population parameters could be altered by the user and there was a real
+   The population parameters could be altered by the user and there is a real
    time graphical representation of several statistical measures.
 
    Later on we added modes that resembled the real world such as a region of
