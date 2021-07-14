@@ -45,7 +45,7 @@ well as some of the projects I am most proud of.
     as
     [Black-Scholes](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
     and therefore is a major stepping stone towards the use of the novel Quantum
-    Computing techniques in the Financial Technology spectrum.
+    Computing techniques in the Financial Technology Industry.
 
     Technologies used: Python, Javascript, C++, XML, Node.JS, React.JS, Numpy,
     Qiskit, Matplotlib
