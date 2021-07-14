@@ -6,7 +6,7 @@ I'm Panagiotis, a Software Engineer at [IMC Trading](https://www.imc.com/eu/) ba
 
 I've received my Integrated Master's in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) at the 
 [National Technical University of Athens](https://www.ntua.gr/en) where I did my Master's Thesis under the supervision of 
-[Dr. Dimitrios Fotakis](http://www.softlab.ntua.gr/~fotakis/) on the [Approximability of Multistage Min-Sum Set Cover]](https://github.com/infinity4471/Dynamic-Min-Sum-Set-Cover).
+[Dr. Dimitrios Fotakis](http://www.softlab.ntua.gr/~fotakis/) on the [Approximability of Multistage Min-Sum Set Cover](https://github.com/infinity4471/Dynamic-Min-Sum-Set-Cover).
 
 My scientific interests lie in the field of Theoretical Computer Science and
 Mathematics. In particular I am interested in the theory of Algorithms, Data
