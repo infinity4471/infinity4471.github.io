@@ -1,0 +1,156 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+%\usepackage[scale=0.8]{geometry}
+ \usepackage[left=0.7cm, right=1.5cm, top=1.2cm]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvheadnamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+\usepackage{import}
+
+% personal data
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+
+\begin{center}
+\textbf{\huge \scshape Panagiotis Kostopanagiotis} \\ \vspace{0.2pt}
+\end{center}
+\normalsize
+
+\begin{center}
+    \href{https://github.com/infinity4471}{\faGithub\quad}Github $|$ 
+    \href{https://www.linkedin.com/in/panagiotis-kostopanagiotis/}{\faLinkedin\quad}LinkedIn $|$
+    \href{https://infinity4471.github.io}{\faGlobe\quad}Portfolio $|$
+    \href{mailto:panagiotis.kostopanagiotis@gmail.com}{\faEnvelope\quad}E-mail
+ \end{center}
+\section{Professional Experience}
+
+\begin{itemize}
+
+%\item{\cventry{August 2021-Present}{Software Engineer, Research and Development}{\href{https://www.mpi-inf.mpg.de/departments/algorithms-complexity}{IMC Trading}}{Amsterdam, Netherlands}{\vspace{1pt}}{\begin{itemize} \item Software Engineer for Derivatives Research Group.\end{itemize}}
+
+\item{\cventry{August 2021-Present}{R\&D Software Engineer}{\href{https://www.imc.com/eu/}{IMC Trading}}{Amsterdam, Netherlands}{\vspace{1pt}}{\begin{itemize} \item Graduate Software Engineer. \end{itemize}}}
+
+\item{\cventry{February 2021-April 2021}{Research Intern, Theoretical Computer Science}{\href{https://www.mpi-inf.mpg.de/departments/algorithms-complexity}{Max Planck Institute for Informatics}}{Saarbrücken, Germany}{\vspace{1pt}}{\begin{itemize} \item Machine-Learning Augmented Algorithms for Robust Online Optimization. \end{itemize}}}
+
+\item{\cventry{July 2020 -- September 2020}{Software Engineering Intern, Financial Analytics}{\href{https://www.bloomberg.com/europe}{Bloomberg LP}}{London, UK}{\vspace{1pt}}{
+\begin{itemize}
+\item \underline{Project}: \textbf{ \href{https://infinity4471.github.io/Projects-Publications/}{Quantum Computing for Option Valuation Description}}
+\item Architectured and Implemented an API to price a variety of option contracts.
+\item Designed the Algorithm used for the pricing using Quantum Amplitude Estimation.
+\item Built a communication protocol to communicate via HTTP Requests with the \href{https://quantum-computing.ibm.com/}{\textbf{IBM Quantum Machines}}.
+\item Main technologies used: Python, C++, Qiskit, Numpy, Matplotlib, SciPy, Javascript, Typescript.
+\end{itemize}
+}}
+\end{itemize}
+
+\section{Education}
+
+\begin{itemize}
+
+\item{\cventry{2015-2021}{\href{https://www.ece.ntua.gr/en}{National Technical University of Athens}}{Integrated M.Eng Electrical and Computer Engineering}{Athens, Greece}{}{Graduated Magna Cum Laude}}
+\begin{itemize}
+    \item Integrated Master's Degree in Computer Science \& Engineering, Minor in Mathematics.
+    \item Founder of \textbf{\href{https://infinity4471.github.io/Algoholics/}{Algoholics-NTUA}}, a community aiming to spread CS knowledge across the country.
+    \item Teaching Assistant: Algorithms and Complexity, Discrete Math.
+    \item Master Thesis: \href{https://github.com/infinity4471/Dynamic-Min-Sum-Set-Cover/blob/main/Master\%20Thesis\%20-\%20On\%20the\%20approximability\%20of\%20Multistage\%20Min\%20Sum\%20Set\%20Cover.pdf}{On the Approximability of Multistage Min Sum Set Cover.}
+\end{itemize}
+
+\end{itemize}
+
+\section{Honors and Awards}
+\begin{itemize}
+    \item{\cventry{2013-2015}{Ranked 2nd and 3rd nationwide.Participated as a member of the national team.}{\href{https://ioinformatics.org/}{International Olympiad In Informatics},
+    Balkan Olympiad in Informatics}{}{}{}}
+    \item{\cventry{2016,2017, 2020}{Ranked 55th, 48th and 17th worldwide out of 4500+ teams.}{\href{https://ieeextreme.org/}{IEEEXtreme International Programming Competition}}{}{}{}}
+    \item{\cventry{2018}{Represented my university in a team of 3. We ranked 19th out of 87 teams.}{\href{http://acm.ro/}{ACM/ICPC Southern Eastern Regional Contest}}{Bucharest, Romania}{}{}}
+    \item{\cventry{2019}{Selected after preliminary round in the university top 4. Received Honorable Mention.}{\href{https://www.imc-math.org.uk/?year=2019}{International Mathematics Competition for University Students}}{Blagoevgrad, Bulgaria}{}{}}
+\end{itemize}
+
+\section{Conference Publications}
+
+\begin{itemize}
+
+\item{\cventry{2021}{Colloquium on Automata, Languages
+and Programming(\emph{\href{http://easyconferences.eu/icalp2021/}{ICALP 2021)}}}{{\href{https://drops.dagstuhl.de/opus/volltexte/2021/14134/}{On the Approximability of Dynamic Min} 
+Sum Set Cover}}{Glasgow, Scotland}{}{}}
+\item{\cventry{2019}{International Joint Conference on Artificial Intelligence(\emph{\href{https://www.ijcai19.org/}{IJCAI 2019)}}}{\href{https://arxiv.org/abs/1905.12379}{Reallocating Multiple Facilities on the Line}}{Macao, China}{}{}}
+
+\end{itemize}
+
+\section{Technical Skills}
+
+\begin{itemize}
+
+\item \textbf{Programming Languages:} C, C++, Python, Java, Javascript, Haskell
+
+\item \textbf{Libraries/Frameworks:} React.JS, Express.JS, Node.JS, Flask, Pandas, Qiskit
+
+\item \textbf{Tools/Technologies:} Git, Docker, MySQL, Vim, Unix, LaTeX
+
+\end{itemize}
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+
+
+%\section{Communication Skills}
+%\begin{itemize}
+%\item \textbf{English:} Full Professional Proficiency
+%\item \textbf{Greek:} Native Speaker
+%\end{itemize}
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+%-----       letter       ---------------------------------------------------------
+
+\end{document}
+
+
+%% end of file `template.tex'.
