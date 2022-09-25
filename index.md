@@ -9,8 +9,8 @@ I've received my Integrated Master's in [Electrical and Computer Engineering](ht
 [Dr. Dimitrios Fotakis](http://www.softlab.ntua.gr/~fotakis/) on the [Approximability of Multistage Min-Sum Set Cover](https://github.com/infinity4471/Dynamic-Min-Sum-Set-Cover).
 
 My scientific interests lie in the field of Theoretical Computer Science and
-Mathematics. In particular I am interested in the theory of Algorithms, Data
-Structures, Data Science and Financial Engineering.
+Mathematics. In particular I am interested in Approximation, Parameterized, Sublinear Algorithms
+and Fine-Grained Complexity Theory.
 
 I'm a former [Bloomberg LP](https://www.bloomberg.com/company/) Software Engineer Intern where I worked on the
 Financial Derivatives Pricing team developing a tool for pricing option

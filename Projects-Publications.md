@@ -5,7 +5,7 @@ permalink: /Projects-Publications/
 ---
 
 Thanks for sticking around. Below you can find a list of my scientific publications as
-well as some of the projects I am most proud of.
+well as some of the projects I've worked on over the years.
 
 ### Publications
 
@@ -75,8 +75,6 @@ well as some of the projects I am most proud of.
    statistics of the simulation.
 
    Technologies used: Python 3.8, Numpy, Matplotlib
-
-   Co-authors: [Natalia Salpea](https://github.com/nattienat09)
 
 3. QuaSiMode, [Github](https://github.com/infinity4471/QuaSiMode)
 
